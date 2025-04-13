@@ -8,3 +8,4 @@ if not gpus:
     print("⚠️ TensorFlow does NOT see your GPU.")
 else:
     print("✅ GPU is visible to TensorFlow!")
+
